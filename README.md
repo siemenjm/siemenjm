@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Currently a software engineering student at General Assembly who can't stop seeing JavaScript when I close my eyes (the code I see while I'm sleeping always works on the first try, that's how I know I'm dreaming...). Former WordPress site builder (and automotive engineer) who fell in love with customizing plugins and realized that software engineering is the bee's knees, hence the bootcamp. If you ask me about my personal life I'll tell you about my toddler, and that's alright because if you met him you wouldn't be able to stop talking about him, either. I love to learn!
+
+Currently learning/am interested in: 
+HTML | CSS | JavaScript | Python | SQL | MongoDB | PostgreSQL | JSON | Typescript | Node.js | React | Express.js | Django | Bootstrap
+
 <!--
 **siemenjm/siemenjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
